@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "session_id": "SESSION-20261106-004",
+  "case_id": "TEST-SESSION",
+  "status": "ACTIVE",
+  "started_at": "2026-11-06T01:03:23+07:00",
+  "updated_at": "2026-11-06T01:03:23+07:00",
+  "closed_at": null,
+  "objectives": [
+    "Task A: Intake",
+    "Task B: Analysis",
+    "Task C: Deliverables"
+  ],
+  "completed_tasks": [
+    "Task A: Intake"
+  ],
+  "in_progress_tasks": [
+    "Task B: Analysis",
+    "Task C: Deliverables"
+  ],
+  "blocked_tasks": [],
+  "decisions": [],
+  "artifacts": [
+    "cases/TEST-SESSION/output/draft/test_art1.txt"
+  ],
+  "issues": [],
+  "next_actions": [
+    "Task A: Intake",
+    "Task B: Analysis",
+    "Task C: Deliverables"
+  ],
+  "last_checkpoint_id": "CKPT-20261106010323"
+}

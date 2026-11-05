@@ -1,0 +1,20 @@
+{
+  "case_id": "CASE-TEMPLATE",
+  "title": "Mẫu Case Study Chuẩn",
+  "description": "Thư mục mẫu dùng để nhân bản cho các bài tập Case Study mới",
+  "status": "NEW",
+  "created_at": "2026-11-06T01:01:25+07:00",
+  "last_updated_at": "2026-11-06T01:01:25+07:00",
+  "requirements": [],
+  "expected_deliverables": [
+    "Business_Analysis_Report.docx",
+    "Financial_Model_and_KPIs.xlsx",
+    "Solution_Presentation.pptx"
+  ],
+  "source_files": [],
+  "active_session_id": null,
+  "next_actions": [
+    "Run /session-start",
+    "Perform Case Intake"
+  ]
+}

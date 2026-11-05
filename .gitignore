@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing artifacts
+.cache/
+.pytest_cache/
+tests/fixtures/*.tmp
+
+# Temporary files
+*.tmp
+*~
+
+# OS artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

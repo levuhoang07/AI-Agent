@@ -1,0 +1,17 @@
+{
+  "case_id": "TEST-RECOVERY",
+  "title": "Test Recovery Case",
+  "description": "",
+  "status": "NEW",
+  "created_at": "2026-11-06T01:02:33+07:00",
+  "last_updated_at": "2026-11-06T01:03:23+07:00",
+  "requirements": [],
+  "expected_deliverables": [
+    "TEST-RECOVERY_Business_Analysis_Report.docx",
+    "TEST-RECOVERY_Financial_Model_and_KPIs.xlsx",
+    "TEST-RECOVERY_Solution_Presentation.pptx"
+  ],
+  "source_files": [],
+  "active_session_id": null,
+  "next_actions": []
+}
