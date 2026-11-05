@@ -118,3 +118,14 @@ Agent sẽ đối chiếu task board, kiểm tra sự tồn tại thực tế c�
 Hệ thống đã vượt qua toàn bộ 10 Quality Gates (G1 - G10) với tỷ lệ đạt **100% PASS**:
 - Chi tiết xem tại: [bootstrap-test-report.md](file:///d:/antigravity/AI-Agent%20PJ/tests/results/bootstrap-test-report.md)
 
+---
+
+## 5. Quản trị Nộp bài tập qua GitHub (GitHub Assignment Submission)
+- **Kho lưu trữ chính thức:** [https://github.com/levuhoang07/AI-Agent](https://github.com/levuhoang07/AI-Agent)
+- **Branch mặc định:** `main`
+- **Quy trình nộp bài:** Khi bạn yêu cầu nộp bài (ví dụ: *"Nộp bài tập lên GitHub"* hoặc *"Đồng bộ lên repo"*), Agent sẽ:
+  1. Xác nhận các file sản phẩm đã vượt qua kiểm định `deliverable-qa`.
+  2. Tạo snapshot commit có gắn mã Case và Session ID.
+  3. Đẩy (push) dữ liệu lên repository theo đúng chỉ đạo của bạn.
+
+
