@@ -54,3 +54,4 @@ Nén thư mục `cases/<CASE_ID>/` thành file ZIP để lưu trữ bài tập �
 | **Báo lỗi PermissionError khi ghi file trên Windows** | Tệp tin Excel hoặc Word đang được mở bởi ứng dụng khác | Đóng tệp tin trên Microsoft Office/Excel; cơ chế Safe Atomic Write trong `safe_io.py` sẽ tự động thử lại sau 0.2s. |
 | **Công thức Excel hiển thị `#NAME?`** | Tên hàm viết hoa/thường không chuẩn hoặc sai dấu phân cách | Đảm bảo tên hàm chuẩn tiếng Anh (`=SUM`, `=AVERAGE`, `=IF`) và dùng dấu phẩy `,` ngăn cách tham số. |
 | **Slide PowerPoint bị tràn chữ ra ngoài khung** | Đoạn văn bản trong shape quá dài | Kiểm tra bằng `inspect_pptx()`; giới hạn tối đa 5-7 gạch đầu dòng và dưới 500 ký tự cho mỗi slide. |
+

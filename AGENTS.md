@@ -46,3 +46,4 @@ Trong Workspace này, Agent hoạt động với tư cách tích hợp:
   - Quản lý case: `case-intake`, `case-planning`
   - Nghiệp vụ phân tích: `business-analysis`, `research-validation`, `data-analysis`, `agent-solution-design`
   - Tự động hóa tài liệu & QA: `docx-specialist`, `xlsx-specialist`, `pptx-specialist`, `deliverable-qa`
+

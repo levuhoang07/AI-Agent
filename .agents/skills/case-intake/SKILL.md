@@ -39,3 +39,4 @@ Bóc tách thành 6 cấu phần chuẩn:
 
 ### Bước 4: Chốt chặn Phê duyệt (Approval Gate A — Scope Approval)
 Trình bày tóm tắt đề bài và danh mục deliverables dự kiến để người dùng xác nhận phạm vi trước khi lập kế hoạch chi tiết.
+

@@ -39,3 +39,4 @@ sess, recovery_md = recover_interrupted_session(case_id, action="RESUME")
 ```
 - Tạo tệp `cases/<CASE_ID>/state/sessions/RECOVERY-<SESSION_ID>.md`.
 - Báo cáo rõ: Checkpoint ID đã khôi phục, chênh lệch filesystem, và các bước tiếp theo.
+

@@ -108,3 +108,4 @@ Khi hoàn thành cả 3 định dạng tài liệu:
 - **Bảng tính Excel:** Đóng vai trò mô hình tài chính và bằng chứng tính toán số học có thể kiểm chứng độc lập.
 - **Slide PowerPoint:** Đóng vai trò bản trình bày tóm lược dành cho ban lãnh đạo hoặc giảng viên chấm thi.
 - **Chốt chặn QA Validator:** Quét tự động nội dung cả 3 tệp tin để đối chiếu các chỉ số quan trọng (ROI, Doanh thu, Chi phí tiết kiệm, Thời gian hoàn vốn). Đảm bảo không xảy ra sai lệch số liệu giữa các tài liệu.
+

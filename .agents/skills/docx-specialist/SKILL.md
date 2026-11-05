@@ -76,3 +76,4 @@ assert audit["tables_count"] >= 1
 - Heading tuân thủ đúng phân cấp (Title -> Heading 1 -> Heading 2).
 - Tiếng Việt hiển thị đúng dấu Unicode UTF-8, không lỗi mã font.
 - Mọi bảng biểu có tiêu đề cột (Header row) và định dạng màu sắc trang nhã.
+

@@ -76,3 +76,4 @@ assert audit["overflow_warnings_count"] == 0 # Không có shape nào bị quá t
 - Slide hiển thị ở tỷ lệ chuẩn màn hình rộng 16:9.
 - Không có lỗi tràn văn bản (Text Overflow: không vượt quá 600 ký tự trong một textbox).
 - Bảng màu đồng nhất, font chữ chuyên nghiệp, không lỗi dấu tiếng Việt.
+

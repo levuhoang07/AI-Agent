@@ -35,3 +35,4 @@ Mỗi tác vụ phải có tiêu chuẩn rõ ràng:
 ### Bước 4: Khởi tạo Task Board Kanban
 Cập nhật tệp `cases/<CASE_ID>/state/task-board.md` với đầy đủ các task theo thứ tự ưu tiên (Priority P0, P1, P2) và phụ thuộc (Dependencies).
 Chuyển trạng thái case: `status: "PLANNED"`.
+

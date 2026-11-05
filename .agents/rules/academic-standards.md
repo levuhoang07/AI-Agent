@@ -20,3 +20,4 @@ trigger: always_on
 ## 3. Văn phong & Đạo đức Học đường (Academic Integrity)
 - Báo cáo phải sử dụng văn phong học thuật, khách quan, mạch lạc, kết hợp giữa chuẩn mực bài tập đại học và tính thực tiễn của báo cáo tư vấn chiến lược doanh nghiệp.
 - Mọi tài liệu tham khảo, khung lý thuyết (BPMN, KPI Tree, SWOT, RCA) phải được áp dụng đúng ngữ cảnh và có nguồn trích dẫn học thuật chuẩn mực.
+

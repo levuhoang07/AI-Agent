@@ -126,3 +126,4 @@ def inspect_and_verify_xlsx(filepath: str) -> Dict[str, Any]:
         "has_summary": "Summary Dashboard" in sheet_names,
         "has_raw_data": "Raw Data" in sheet_names
     }
+

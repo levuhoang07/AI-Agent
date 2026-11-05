@@ -46,3 +46,4 @@ Skill này cung cấp các khung phân tích nghiệp vụ chuẩn mực (Busine
 
 ## 3. Đầu ra (Deliverables)
 - Lưu trữ tài liệu phân tích tại: `cases/<CASE_ID>/analysis/business-analysis-spec.md`.
+

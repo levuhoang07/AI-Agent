@@ -25,3 +25,11 @@ trigger: always_on
 ## 4. Chuyển đổi Case (Case Switching Protocol)
 - Khi người dùng muốn chuyển từ Case A sang Case B, hệ thống phải kiểm tra xem Case A có phiên đang mở (`ACTIVE`) hay không.
 - Bắt buộc phải thực hiện đóng phiên an toàn (`/session-close`) hoặc lưu checkpoint cho Case A trước khi chuyển sang kích hoạt phiên của Case B.
+
+## 5. Quản lý Thư mục Input & Output Trung tâm (Central Input & Output Isolation)
+- Khi tiếp nhận tài liệu tại `input/`, phân loại tài liệu theo thư mục con `input/<CASE_ID>/`.
+- Khi xuất tài liệu sản phẩm tại `output/`, **BẮT BUỘC** phải tạo và lưu trữ vào thư mục con riêng biệt theo từng mã Case/Dự án:
+  `output/<CASE_ID>/final/` và `output/<CASE_ID>/draft/`.
+- Tuyệt đối **KHÔNG** xuất file của các case khác nhau vào cùng một thư mục chung nhằm bảo đảm không bị lẫn lộn dữ liệu và dễ dàng tìm kiếm sau này.
+
+

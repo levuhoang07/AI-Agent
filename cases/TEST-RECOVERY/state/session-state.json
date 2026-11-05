@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "session_id": "SESSION-20261106-006",
+  "session_id": "SESSION-20261106-009",
   "case_id": "TEST-RECOVERY",
   "status": "CLOSED",
-  "started_at": "2026-11-06T01:03:23+07:00",
-  "updated_at": "2026-11-06T01:03:23+07:00",
-  "closed_at": "2026-11-06T01:03:23+07:00",
+  "started_at": "2026-11-06T01:08:58+07:00",
+  "updated_at": "2026-11-06T01:08:58+07:00",
+  "closed_at": "2026-11-06T01:08:58+07:00",
   "objectives": [
     "Build Model",
     "Test Recovery"
@@ -20,5 +20,5 @@
   "artifacts": [],
   "issues": [],
   "next_actions": [],
-  "last_checkpoint_id": "CKPT-20261106010323"
+  "last_checkpoint_id": "CKPT-20261106010858"
 }

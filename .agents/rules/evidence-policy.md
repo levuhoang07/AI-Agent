@@ -23,3 +23,4 @@ Mọi luận điểm trong phân tích và đề xuất giải pháp phải đư
 ## 3. Bảo mật Thông tin Doanh nghiệp trong Case Study
 - Không đưa dữ liệu nhạy cảm, thông tin bí mật hoặc tài sản nội bộ chưa được ẩn danh lên các dịch vụ đám mây công cộng bên ngoài.
 - Dữ liệu demo phải được ẩn danh hóa (anonymized) trước khi lưu trữ hoặc chia sẻ.
+

@@ -44,3 +44,4 @@ Trình bày tài liệu thiết kế giải pháp cho người dùng phê duyệ
 
 ## 4. Đầu ra (Deliverables)
 - Bản đặc tả giải pháp: `cases/<CASE_ID>/solution/agent-architecture-spec.md`.
+

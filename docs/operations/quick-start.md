@@ -58,3 +58,4 @@
 | "XLSX Specialist" | Dựng bảng tính Excel, công thức, chart | File `.xlsx` hoàn chỉnh |
 | "PPTX Specialist" | Dựng slide trình chiếu 16:9 | File `.pptx` hoàn chỉnh |
 | "Deliverable QA" | Kiểm tra chéo tính nhất quán số liệu | `qa-signoff-report.md` |
+

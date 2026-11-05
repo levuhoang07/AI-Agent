@@ -70,3 +70,4 @@ In toàn văn báo cáo Markdown ra màn hình chat:
 
 ## 3. Error Handling
 - Nếu có lỗi ghi file ở bất kỳ bước nào, trạng thái phiên không được đánh dấu `CLOSED` mà giữ ở mức `INTERRUPTED` kèm thông báo lỗi chi tiết.
+

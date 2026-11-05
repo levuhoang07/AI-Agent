@@ -18,3 +18,4 @@ trigger: always_on
 ## 3. Quản trị Cấu hình Hệ thống (System Configuration)
 - Không tự ý cài đặt package toàn cục (`pip install`) hoặc thay đổi file cấu hình ngoài Workspace nếu chưa có sự đồng ý của người dùng.
 - Mọi hoạt động kiểm thử phải tận dụng tối đa các thư viện đã cài sẵn hoặc thư viện chuẩn `unittest` của Python.
+

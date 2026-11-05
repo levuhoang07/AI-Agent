@@ -52,3 +52,4 @@ Báo cáo chỉ rõ:
 
 ## 3. Chốt chặn Phê duyệt (Approval Gate C — Deliverable Approval)
 Trình báo cáo QA cho người dùng xem xét và phê duyệt trước khi nộp bài.
+

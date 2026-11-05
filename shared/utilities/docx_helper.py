@@ -172,3 +172,4 @@ def inspect_docx(filepath: str) -> Dict[str, Any]:
         "tables": tables_info,
         "sample_text": paragraphs[0][:100] if paragraphs else ""
     }
+

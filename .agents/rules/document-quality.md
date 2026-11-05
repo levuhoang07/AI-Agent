@@ -26,3 +26,4 @@ trigger: always_on
 ## 4. Tính Nhất quán Đa định dạng (Cross-Format Consistency)
 - Các số liệu kinh doanh trọng yếu (Doanh thu, Chi phí, ROI, Thời gian hoàn vốn, Số lượng nhân sự, v.v.) phải **hoàn toàn trùng khớp** giữa báo cáo chi tiết Word, mô hình bảng tính Excel và slide thuyết trình PowerPoint.
 - Cùng một nguồn dữ liệu (Single Source of Truth) từ `analysis/` hoặc `shared/` phải là cơ sở tính toán duy nhất cho cả ba định dạng tài liệu.
+

@@ -176,3 +176,4 @@ def inspect_pptx(filepath: str) -> Dict[str, Any]:
         "overflow_warnings": overflow_warnings,
         "is_widescreen": abs(prs.slide_width.inches - 13.333) < 0.1
     }
+

@@ -80,3 +80,4 @@ def cross_validate_deliverables(
         
     results["consistency_score"] = (matched_count / total_metrics * 100) if total_metrics > 0 else 100.0
     return results
+

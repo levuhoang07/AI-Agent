@@ -33,3 +33,4 @@ Gán nhãn bắt buộc cho mọi luận điểm:
 
 ## 3. Đầu ra (Deliverables)
 - Lưu trữ tài liệu nghiên cứu tại: `cases/<CASE_ID>/research/research-synthesis.md`.
+

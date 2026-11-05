@@ -22,3 +22,4 @@ trigger: always_on
 ## 3. Kiểm định Độc lập Công thức Tính toán (Verified Calculations)
 - Không được nhầm lẫn giữa công thức tính (`Formula`) và giá trị tĩnh được lưu đệm (`Cached Value`).
 - Mọi chỉ số KPI tài chính hoặc vận hành (ROI, NPV, CIR, Churn Rate, Throughput) phải có công thức toán học minh bạch, được kiểm tra đối chiếu bằng Python script hoặc script thẩm định độc lập trước khi đưa vào báo cáo Word hoặc Slide.
+

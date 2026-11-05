@@ -72,6 +72,13 @@ def scaffold_case(case_id: str, title: str, description: str = "", requirements:
     for sub in subdirs:
         os.makedirs(os.path.join(case_dir, sub), exist_ok=True)
         
+    # Central input/output segregation folders per case
+    os.makedirs(os.path.join(WORKSPACE_ROOT, "input", case_id, "assignment"), exist_ok=True)
+    os.makedirs(os.path.join(WORKSPACE_ROOT, "input", case_id, "templates"), exist_ok=True)
+    os.makedirs(os.path.join(WORKSPACE_ROOT, "input", case_id, "datasets"), exist_ok=True)
+    os.makedirs(os.path.join(WORKSPACE_ROOT, "output", case_id, "draft"), exist_ok=True)
+    os.makedirs(os.path.join(WORKSPACE_ROOT, "output", case_id, "final"), exist_ok=True)
+        
     now = get_iso_timestamp()
     manifest = {
         "case_id": case_id,
@@ -476,3 +483,4 @@ def recover_interrupted_session(case_id: str, action: str = "RESUME") -> Tuple[D
     atomic_write_text(rec_report_path, recovery_report)
     
     return sess, recovery_report
+

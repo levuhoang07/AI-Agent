@@ -85,3 +85,4 @@ Approval required: Review plan and proceed.
 ## 3. Error Handling
 - Nếu `workspace-registry.json` bị thiếu hoặc hỏng, tự động tạo lại baseline từ cấu trúc thư mục `cases/`.
 - Nếu xảy ra lỗi phân quyền ghi file, thử lại tối đa 5 lần với cơ chế atomic write.
+

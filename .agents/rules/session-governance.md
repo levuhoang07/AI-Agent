@@ -30,3 +30,4 @@ trigger: always_on
   4. Tệp `workspace-state/workspace-registry.json` được cập nhật thông tin phiên mới nhất.
   5. Tệp `workspace-state/active-session.json` được giải phóng hoặc chuyển trạng thái không còn active.
 - Nếu xảy ra lỗi ghi file ở bất kỳ bước nào, phiên phải được giữ ở trạng thái có thể khôi phục (`INTERRUPTED` hoặc `RECOVERY_PENDING`) và thông báo chi tiết lỗi cho người dùng.
+

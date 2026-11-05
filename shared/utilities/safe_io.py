@@ -75,3 +75,4 @@ def read_text(filepath: str) -> Optional[str]:
         return None
     with open(filepath, "r", encoding="utf-8") as f:
         return f.read()
+
