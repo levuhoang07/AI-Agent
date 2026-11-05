@@ -1,20 +1,30 @@
-# Byte-compiled / optimized / DLL files
+# ==============================================================================
+# SUBMISSION REPOSITORY GITIGNORE
+# Only track final assignment deliverables and output results for GitHub.
+# Keep local workspace engines, test suites, and internal state purely local.
+# ==============================================================================
+
+# Internal Workspace Engine & Governance
+.agents/
+workspace-state/
+cases/
+shared/
+tests/
+docs/
+AGENTS.md
+input/
+
+# Python & System caches
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Testing artifacts
-.cache/
-.pytest_cache/
-tests/fixtures/*.tmp
-
-# Temporary files
 *.tmp
 *~
+.cache/
+.pytest_cache/
 
 # OS artifacts
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-
