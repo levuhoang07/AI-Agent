@@ -1,0 +1,26 @@
+{
+  "case_id": "CASE-001",
+  "title": "Phân biệt cơ chế vận hành của LLM truyền thống và AI Agent tại FPT Telecom",
+  "description": "Bài tập về nhà AI301_S01_BTVN_M1_BT1: So sánh cơ chế kỹ thuật, quy trình xử lý ca thực tế và hiệu quả vận hành giữa Chatbot LLM và AI Agent tại FPT Telecom.",
+  "status": "PLANNED",
+  "created_at": "2026-11-06T01:14:29+07:00",
+  "last_updated_at": "2026-11-06T01:17:00+07:00",
+  "requirements": [
+    "Nhiệm vụ 1: Bóc tách cơ chế kỹ thuật cốt lõi (LLM vs AI Agent loop)",
+    "Nhiệm vụ 2: Phân tích quy trình xử lý ca thực tế (kiểm tra đường truyền & nâng cấp gói cước)",
+    "Nhiệm vụ 3: Đánh giá hiệu quả vận hành (tính toán % giảm tải FCR 22% -> 75%) và 02 thách thức kỹ thuật"
+  ],
+  "expected_deliverables": [
+    "output/CASE-001/final/Bao_Cao_Phan_Biet_LLM_va_AI_Agent_FPT_Telecom.md",
+    "output/CASE-001/final/Bao_Cao_Phan_Biet_LLM_va_AI_Agent_FPT_Telecom.docx"
+  ],
+  "source_files": [
+    "input/CASE-001/assignment/AI301_S01_BTVN_M1_BT1.md"
+  ],
+  "active_session_id": "SESSION-20261106-010",
+  "next_actions": [
+    "Duyệt Scope tại Gate A",
+    "Thực hiện Bóc tách kỹ thuật & Viết Báo cáo chuẩn 450 - 600 từ",
+    "Kiểm định chất lượng từ ngữ & Deliverables QA"
+  ]
+}

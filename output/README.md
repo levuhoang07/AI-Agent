@@ -27,3 +27,4 @@ output/
 
 - **Quy tắc đặt tên file:** Luôn gắn tiền tố mã case (ví dụ: `CASE-001_...`) vào tên file sản phẩm.
 - **Tính độc lập:** Sản phẩm của Case A tuyệt đối không ghi đè hoặc nằm chung với Case B.
+

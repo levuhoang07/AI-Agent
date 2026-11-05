@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "session_id": "SESSION-20261106-010",
+  "case_id": "CASE-001",
+  "status": "ACTIVE",
+  "started_at": "2026-11-06T01:14:29+07:00",
+  "updated_at": "2026-11-06T01:17:12+07:00",
+  "closed_at": null,
+  "objectives": [
+    "Tiếp nhận đề bài và tài liệu đầu vào (Case Intake)",
+    "Bóc tách yêu cầu và phân tích bài toán kinh doanh (Business Analysis)",
+    "Lập kế hoạch WBS và tiêu chí nghiệm thu (Case Planning)"
+  ],
+  "completed_tasks": [
+    "Task 01: Case Intake — Tiếp nhận đề bài"
+  ],
+  "in_progress_tasks": [
+    "Task 02: Bóc tách cơ chế kỹ thuật & Soạn thảo báo cáo"
+  ],
+  "blocked_tasks": [],
+  "decisions": [],
+  "artifacts": [
+    "input/CASE-001/assignment/AI301_S01_BTVN_M1_BT1.md"
+  ],
+  "issues": [],
+  "next_actions": [
+    "Tiếp nhận đề bài và tài liệu đầu vào (Case Intake)",
+    "Bóc tách yêu cầu và phân tích bài toán kinh doanh (Business Analysis)",
+    "Lập kế hoạch WBS và tiêu chí nghiệm thu (Case Planning)"
+  ],
+  "last_checkpoint_id": "CKPT-20261106011712"
+}

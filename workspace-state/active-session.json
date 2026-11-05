@@ -1,28 +1,35 @@
 {
   "schema_version": "1.0",
-  "session_id": "SESSION-20261106-009",
-  "case_id": "TEST-RECOVERY",
-  "status": "CLOSED",
-  "started_at": "2026-11-06T01:08:58+07:00",
-  "updated_at": "2026-11-06T01:08:58+07:00",
-  "closed_at": "2026-11-06T01:08:58+07:00",
+  "session_id": "SESSION-20261106-010",
+  "case_id": "CASE-001",
+  "status": "ACTIVE",
+  "started_at": "2026-11-06T01:14:29+07:00",
+  "updated_at": "2026-11-06T01:19:47+07:00",
+  "closed_at": null,
   "objectives": [
-    "Build Model",
-    "Test Recovery"
+    "Tiếp nhận đề bài và tài liệu đầu vào (Case Intake)",
+    "Bóc tách yêu cầu và phân tích bài toán kinh doanh (Business Analysis)",
+    "Lập kế hoạch WBS và tiêu chí nghiệm thu (Case Planning)"
   ],
   "completed_tasks": [
-    "Build Model"
+    "Task 01: Case Intake",
+    "Task 02: Bóc tách cơ chế kỹ thuật",
+    "Task 03: Soạn thảo báo cáo MD & DOCX",
+    "Task 04: Thẩm định QA"
   ],
-  "in_progress_tasks": [
-    "Test Recovery"
-  ],
+  "in_progress_tasks": [],
   "blocked_tasks": [],
   "decisions": [],
-  "artifacts": [],
+  "artifacts": [
+    "output/CASE-001/final/Bao_Cao_Phan_Biet_LLM_va_AI_Agent_FPT_Telecom.md",
+    "output/CASE-001/final/Bao_Cao_Phan_Biet_LLM_va_AI_Agent_FPT_Telecom.docx",
+    "cases/CASE-001/qa/qa-signoff-report.md"
+  ],
   "issues": [],
   "next_actions": [
-    "Build Model",
-    "Test Recovery"
+    "Tiếp nhận đề bài và tài liệu đầu vào (Case Intake)",
+    "Bóc tách yêu cầu và phân tích bài toán kinh doanh (Business Analysis)",
+    "Lập kế hoạch WBS và tiêu chí nghiệm thu (Case Planning)"
   ],
-  "last_checkpoint_id": "CKPT-20261106010858"
+  "last_checkpoint_id": "CKPT-20261106011947"
 }

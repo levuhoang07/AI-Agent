@@ -19,3 +19,4 @@ Thư mục này dùng để tiếp nhận toàn bộ đề bài, tài liệu, đ
 2. **Kéo thả trực tiếp:**
    - Bạn có thể kéo thả tài liệu trực tiếp vào `input/` hoặc vào `input/<CASE_ID>/`.
    - Khi kích hoạt `/session-start` hoặc `case-intake`, Agent sẽ tự động nhận diện và chuyển vào đúng case đang hoạt động.
+
