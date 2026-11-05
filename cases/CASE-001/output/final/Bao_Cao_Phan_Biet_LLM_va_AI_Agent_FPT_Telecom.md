@@ -40,3 +40,4 @@ Với 50.000 yêu cầu/ngày tại Trung tâm CSKH [SIMULATED]:
 #### 3.2. Hai thách thức kỹ thuật lớn nhất
 1. **Tích hợp Backend cũ và độ trễ (Legacy Integration & Latency):** Hệ thống BSS/OSS và quản lý modem phân tán. Gọi chuỗi công cụ đồng thời dễ nghẽn, đe dọa mục tiêu phản hồi dưới 5 giây.
 2. **Nguy cơ ảo giác hành động (Action Hallucination & Safety):** Lỗi suy luận có thể kích hoạt sai lệnh đổi gói hoặc cước phí. Bắt buộc có Human-in-the-Loop, xác thực OTP và cơ chế transaction rollback.
+

@@ -21,3 +21,4 @@
 - [x] `output/CASE-001/final/Bao_Cao_Phan_Biet_LLM_va_AI_Agent_FPT_Telecom.docx` (Tồn tại, mở hợp lệ, 3 headings, 1 table, bảng màu chuyên nghiệp).
 
 ## 4. Kết luận Nghiệm thu: **PASS — ĐẠT CHUẨN NỘP BÀI**
+

@@ -69,3 +69,4 @@ docx_helper.create_report_document(
 
 audit = docx_helper.inspect_docx(out2)
 print(f"DOCX Audit Valid: {audit['valid']}, Headings: {audit['headings_count']}, Tables: {audit['tables_count']}")
+
