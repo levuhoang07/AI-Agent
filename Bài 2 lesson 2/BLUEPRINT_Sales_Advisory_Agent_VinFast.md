@@ -45,3 +45,4 @@ Agent tiếp nhận hai nhóm dữ liệu chuẩn hóa:
 ### Hàng rào an toàn bắt buộc (Safety Guardrails)
 1. **Guardrail 1 - Chống cam kết sai lệch giá (Price Non-Commitment):** Bắt buộc kèm câu miễn trừ trách nhiệm: *"Mức giá $45.000 USD là giá ước tính sau trợ cấp bang California, chưa bao gồm thuế trước bạ, phí đăng ký và điều kiện tín dụng thực tế."*
 2. **Guardrail 2 - Giới hạn pháp lý tính năng lái (Regulatory Safety):** Tuyệt đối không hứa hẹn tính năng tự lái hoàn toàn (Level 4/5) trái quy định NHTSA; từ chối thu thập thông tin thẻ ngân hàng hoặc SSN qua kênh chat.
+
