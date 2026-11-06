@@ -72,3 +72,4 @@ Kịch bản prompt mẫu gửi tới Antigravity kích hoạt kỹ năng:
 **Đầu ra kỳ vọng:** Agent tự động gọi script tính toán ra kết quả 25 phút, xuất bảng Markdown trực quan kèm lời nhắc rút sạc tại mức 80% để tối ưu hóa thời gian và chi phí cho khách hàng.
 
 Việc bóc tách kỹ năng thành 4 thành phần theo chuẩn Antigravity giúp doanh nghiệp dễ dàng mở rộng, kiểm thử độc lập từng script tính toán và bảo trì kho tri thức mà không cần đào tạo lại mô hình nền tảng.
+
