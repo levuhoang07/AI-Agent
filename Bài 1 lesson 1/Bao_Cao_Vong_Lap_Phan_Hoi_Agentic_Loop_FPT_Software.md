@@ -49,3 +49,4 @@ Ma trận phân quyền xác định ranh giới tự chủ và điểm dừng b
 | **Bắt buộc duyệt (HITL)** | Chặn lại, xin duyệt | - Khởi động lại toàn bộ máy chủ (`reboot node`).<br>- Xóa Docker Volume hoặc can thiệp dữ liệu gốc.<br>- Tự phục hồi 2 lần thất bại nhưng container vẫn sập.<br>- RAM máy chủ vượt 95% đe dọa các node lân cận. |
 
 Khi chạm ngưỡng HITL, Agent đóng băng can thiệp sâu, gửi tóm tắt nguyên nhân qua Slack/Telegram của kỹ sư trực kèm 2 lựa chọn: `[Duyệt Restart Node]` hoặc `[Rollback CI/CD]`, đảm bảo con người nắm quyền kiểm soát tối hậu.
+
