@@ -68,3 +68,4 @@ FPT Digital tiến hành đánh giá 3 nền tảng AI Agent hàng đầu:
 | **Tác vụ phù hợp** | **Data Analytics Agent**: Orchestrator trung tâm quản trị dữ liệu và luồng xử lý chuỗi. | **Sales Agent**: Tương tác trực tiếp khách hàng đa kênh, phản hồi tự nhiên và chốt đơn. | **BizDev Agent**: Cào quét, phân tích báo cáo đối thủ và tổng hợp dữ liệu chiến lược. |
 
 **Khuyến nghị triển khai tích hợp:** FPT Digital khuyến nghị mô hình kết hợp đa nền tảng (Multi-Provider Hybrid Architecture): ứng dụng **Google Antigravity** điều phối tổng thể và vận hành Data Analytics Agent; dùng **OpenAI API** cho giao tiếp mặt trước của Sales Agent; và tích hợp **Claude 3.5 Sonnet** cho công tác tình báo giá của BizDev Agent. Giải pháp giúp doanh nghiệp giải phóng 85% thời gian thủ công và tối ưu hóa lợi nhuận bền vững.
+
